@@ -53,14 +53,14 @@ This project is a real-time song translation application that uses AI/ML to auto
 	HUGGING_FACE_API_TOKEN=your-hf-api-token
   ```
 
-5. Start the development server:
+4. Start the development server:
 
   ```bash
   # Start the frontend server
-  cd ../client
   npm run dev
+  ```
 
-6. Access the application in your browser:
+5. Access the application in your browser:
    Open `http://localhost:3000` to use the application.
 
 
